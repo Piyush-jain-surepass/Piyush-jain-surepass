@@ -76,24 +76,6 @@
     </a>
   </p>
 
- <h3>💻 GitHub Profile Stats</h3>
-    <p>
-    <img alt="PIYUSH JAIN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Piyush-jain-surepass&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    <img alt="PIYUSH JAIN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-jain-surepass&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-    </p>
-
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
   <img alt="PIYUSH JAIN's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Piyush-jain-surepass&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </details>
 
-<!-- Trophies Section -->
-<img alt="PIYUSH JAIN's Trophies" src="https://github-profile-trophy.vercel.app/?username=Piyush-jain-surepass&theme=dracula&row=1&margin-w=5&no-frame=true" />
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Piyush-jain-surepass/Piyush-jain-surepass/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Piyush-jain-surepass/Piyush-jain-surepass/blob/output/github-contribution-grid-snake.svg?raw=true" />
-  <img alt="github-snake" src="github-snake.svg" width="100%" />
-</picture>
